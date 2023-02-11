@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921452174910",
+    "project_id": "login-fbeda",
+    "storage_bucket": "login-fbeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921452174910:android:292d3310440d98d84bbb6f",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921452174910-d0pmmmj7p17s8jniqe84bq1spvhodjfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd273wSpAgz4utCgmpGuUNkiLyJ6zBWJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921452174910-d0pmmmj7p17s8jniqe84bq1spvhodjfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
